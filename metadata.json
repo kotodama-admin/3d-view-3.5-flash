@@ -1,0 +1,6 @@
+{
+  "name": "3D Face & Eye Tracker",
+  "description": "A precise real-time 3D Face and Eye tracking visualization using MediaPipe and Three.js, mapping the camera position to person's eye coordinates.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
